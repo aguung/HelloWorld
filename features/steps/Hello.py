@@ -14,4 +14,3 @@ search_bar.send_keys("python")
 search_bar.send_keys(Keys.ENTER)
 
 print(driver.current_url)
-driver.close()
